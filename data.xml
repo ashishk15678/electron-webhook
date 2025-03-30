@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <title>Understanding XML in Web Development</title>
+    <author>Jane Doe</author>
+    <date>2025-03-30</date>
+    <content>
+        <section>
+            <heading>Introduction to XML</heading>
+            <paragraph>
+                XML (Extensible Markup Language) is a flexible and readable format used for data storage and transport. It is commonly used to structure data in a way that is easy to read and write both for humans and machines.
+            </paragraph>
+        </section>
+        <section>
+            <heading>Why Use XML?</heading>
+            <paragraph>
+                XML is platform-independent and allows different systems to communicate with one another. It's widely used in web services, RSS feeds, and data exchange protocols, making it essential in modern web development.
+            </paragraph>
+        </section>
+    </content>
+</blog>
